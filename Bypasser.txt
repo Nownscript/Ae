@@ -1,4 +1,3 @@
---MADE BY WARRIOR ROBERR
 -- Version: 3.2
 
 -- Instances:

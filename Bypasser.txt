@@ -75,7 +75,7 @@ Execute.TextScaled = true
 Execute.TextSize = 14.000
 Execute.TextWrapped = true
 Execute.MouseButton1Click:Connect(function()
-	Loadstring(script.TextBox.Text)()
+	loadstring(script.TextBox.Text)()
 	
 end)
 
